@@ -1,0 +1,11 @@
+﻿__pycache__/
+*.pyc
+*.log
+
+dist/
+build/
+*.spec
+
+backups/
+*.xlsx
+*.exe
